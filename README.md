@@ -11,9 +11,7 @@ This project was developed as part of the **Modern Application Development – C
 ## Live Demo
 
 Deployed Website:  
-https://habitpulse.vercel.app
-
-> Replace this link with your actual Vercel deployment link if different.
+https://habit-tracker-jade-alpha.vercel.app/
 
 ---
 
